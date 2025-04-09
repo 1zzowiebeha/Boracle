@@ -4,5 +4,5 @@ Welcome to Boracle
 Inspired by Netscape
 
 # ❗Note to readers
-`@layers` are super useful in a CSS preprocessor (SASS, Less, PostCSS), as `@imports` are blocking code within vanilla CSS.
+`@layers` are most useful in a CSS preprocessor (SASS, Less, PostCSS), as `@imports` are blocking code within vanilla CSS.
 There one can modularize and re-use their layers across many files.
