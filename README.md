@@ -6,6 +6,6 @@ Boracle is an example documentation piece written in CSS and HTML.
 
 It is inspired by the Netscape browser, and Java documentation pages.
 
-# ❗Clean & maintainable code notice for readers:
+## ❗Code notice for readers:
 `@layers` are most useful when paired with a CSS preprocessor (SASS, Less, PostCSS), as `@imports` are blocking code within vanilla CSS.
 Within a preprocessor one can modularize and re-use their layers across many files.
